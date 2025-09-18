@@ -8,4 +8,8 @@ Platformer on a construction site. Start with the player getting injured by an e
 
 - Convinience Store acts as shop and have roller dogs be health boosts or something.
 
+Brainstorm:
+  - crane level with moving platforms
+  - monopoly man is villian
+
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/889decb1-601f-4987-a82a-28dd34d4795f" />
