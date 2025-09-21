@@ -1,4 +1,5 @@
 # WORKER'S COMP
+https://www.figma.com/design/LYgqkaYaBEq0iAJCM14OGL/WorkersCompLevelDesign?node-id=0-1&m=dev&t=LfRp8EuwMeeAQuvH-1
 ### Cocky Studios
 ### Lukas Palassis, Finlay Palmer, and Tarun Ramkumar
 
