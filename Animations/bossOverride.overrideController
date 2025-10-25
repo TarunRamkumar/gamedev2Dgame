@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: bossOverride
+  m_Controller: {fileID: 9100000, guid: 4d367786a95fb46b0a8d1a9468428505, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9802a2963b17b483790889f68d039688, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4596924ffefcb4dce9d3d0ee77b96e7e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3c6b4be8db39145b8adb59ad9772b892, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 48ade9d7140da459abc00abdc7f0364f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b336f9157e8d04487b66d99b9f4c84ec, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: da2702da5eb6863448a6899f73252e3e, type: 2}
